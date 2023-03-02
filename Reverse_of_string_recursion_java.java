@@ -1,4 +1,4 @@
-public class Recursion_of_rev {
+public class Reverse_of_string_recursion_java {
      public static void printReverse (String str)
         {
                 if ((str==null)||(str.length() <= 1)) 
